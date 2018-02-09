@@ -1,0 +1,14 @@
+{
+  "name": "cashier",
+  "version": "1.0.0",
+  "description": "A sample credit card payment provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Barresi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
